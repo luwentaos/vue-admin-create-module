@@ -1,0 +1,11 @@
+{
+  "name": "vue-admin-create-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luwentaos/vue-admin-create-module.git",
+  "author": "fuyao",
+  "license": "MIT",
+  "bin":{
+    "create-module":"./index.js"
+  }
+}
